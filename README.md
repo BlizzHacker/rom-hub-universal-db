@@ -231,3 +231,15 @@ and they fail as an ordinary failed job with GBAtemp's own status on it.
 directives at all, so there is nothing to observe and nothing to work around.
 The plugin makes **one** request per command regardless, because the database is
 one document.
+
+---
+
+## Seen working
+
+Games this plugin imported are in the library below, filed in a collection named after it. Nothing in that picture was hand-placed.
+
+![RomM populated by ROM Hub plugins](https://raw.githubusercontent.com/BlizzHacker/rom-hub/master/docs/screenshots/romm.png)
+
+Full showcase — all three backends (RomM, Gaseous, Retrom), every command transcript, and an honest account of what the pictures do *not* show: **[https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md](https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md)**
+
+Part of [ROM Hub](https://github.com/BlizzHacker/rom-hub) — install with `rom-hub plugin install universal-db`.
