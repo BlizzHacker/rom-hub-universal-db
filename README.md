@@ -1,5 +1,7 @@
 # Universal-DB plugin for ROM Hub — 3DS and DS homebrew
 
+> Part of **[Cartridge](https://github.com/BlizzHacker/rom-hub/blob/master/BRAND.md)** by MoveWeight — a **[ROMarr](https://github.com/BlizzHacker/romarr)** / ROM Hub plugin. Unofficial; not affiliated with RomM, Gaseous or Retrom.
+
 Implements the RPP v1 `search` and `importer` capabilities against
 [Universal-DB](https://db.universal-team.net), Universal-Team's open database of
 Nintendo 3DS and Nintendo DS **homebrew** — software written by hobbyists for
