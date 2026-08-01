@@ -1,5 +1,8 @@
 # Universal-DB plugin for ROM Hub — 3DS and DS homebrew
 
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
+Oklahoma non-profit corporation with 501(c)(3) status pending.
+
 Implements the RPP v1 `search` and `importer` capabilities against
 [Universal-DB](https://db.universal-team.net), Universal-Team's open database of
 Nintendo 3DS and Nintendo DS **homebrew** — software written by hobbyists for
